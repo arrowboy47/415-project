@@ -1,0 +1,14 @@
+{"capsule2023":{
+  "vessel": "BOTTLE",
+  "response": [{
+    "question": "questions_question18",
+    "answer": "spotify:track:7ubd6wvhN4TKMwQUy6hR69"
+  }, {
+    "question": "questions_question4",
+    "answer": "spotify:track:2M8g01v2vUMn39YQ10l7ef"
+  }, {
+    "question": "questions_question2",
+    "answer": "spotify:track:4Yul0QHDFy2uV5cupAzFqj"
+  }],
+  "playlistUri": "spotify:playlist:0s2blt8AC1amfBwT3rP88Q"
+}}
